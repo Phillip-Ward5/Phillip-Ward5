@@ -1,0 +1,6 @@
+- Hi, I’m @Phillip-Ward5
+- I’m interested in Data Science
+- I’m currently learning Python and SQL
+- Admitted to Boston University for a Master of Science in Data Science
+- Email is best for communication @ plwleonyte@gmail.com
+- Fun fact: I love coding, and spending time with my family
