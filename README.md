@@ -1,5 +1,5 @@
 - Hi, I’m @Phillip-Ward5
-- I’m interested in the vast world of AI and Data Science
+- I’m interested in the vast world of AI, Machine Learning, and Data Science
 - I’m currently mastering Python and SQL
 - I am just starting out learning R and Javascript
 - Attending Boston University for a Master of Science in Data Science
