@@ -2,6 +2,6 @@
 - I’m interested in the vast world of AI and Data Science
 - I’m currently mastering Python and SQL
 - I am just starting out learning R and Javascript
-- Admitted to Boston University for a Master of Science in Data Science
+- Attending Boston University for a Master of Science in Data Science
 - Email is best for communication @ plwleonyte@gmail.com
 - Fun fact: I love learning new things, coding, and spending time with my family
