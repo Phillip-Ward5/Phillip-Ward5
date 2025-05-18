@@ -1,7 +1,8 @@
 - Hi, I’m @Phillip-Ward5
 - I’m interested in the vast world of AI, Machine Learning, and Data Science
-- I’m currently mastering Python and SQL
-- I am just starting out learning R and Javascript
+- I’m mastering data management using various modules such as matplotlib, numpy, pandas, and much more. 
 - Attending Boston University for a Master of Science in Data Science
+- I want to expand my skills and knowledge in data and programming
+- I want to start a career in the field of data
 - Email is best for communication @ plwleonyte@gmail.com
 - Fun fact: I love learning new things, coding, and spending time with my family
