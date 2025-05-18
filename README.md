@@ -1,6 +1,6 @@
 - Hi, I’m @Phillip-Ward5
 - I’m interested in the vast world of AI, Machine Learning, and Data Science
-- I’m mastering data management using various modules such as matplotlib, numpy, pandas, and much more. 
+- I’m mastering data management using various modules such as matplotlib, numpy, pandas, PCA, and much more. 
 - Attending Boston University for a Master of Science in Data Science
 - I want to expand my skills and knowledge in data and programming
 - I want to start a career in the field of data
